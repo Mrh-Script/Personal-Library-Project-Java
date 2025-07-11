@@ -36,10 +36,8 @@ The data is saved automatically and persists between runs.
 ---
 
 ## 🖼️ Interface
-
-*(You can insert your screenshots here)*  
-Example:  
-<img src="Library.png" width="400"/>  
+ 
+<img src="Library.png" width="800"/>  
  
 
 ---
