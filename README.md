@@ -1,4 +1,4 @@
-# 📚 Personal Book Library
+# Personal Book Library
 
 ## 📝 Summary
 
